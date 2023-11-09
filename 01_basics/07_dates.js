@@ -4,16 +4,16 @@
 // console.log(myDate.toString());
 // console.log(myDate.toDateString());
 // console.log(myDate.toLocaleDateString());
-// console.log(typeof myDate);
+// console.log(typeof myDate);                               //object
 
 // let myCreateDate = new Date(2023,8,7)
 // let myCreateDate = new Date(2023,8,7,5,6)
 
 // let myCreateDate = new Date("2023-01-14")
 
-let myCreateDate = new Date("01-14-2023")
+// let myCreateDate = new Date("01-14-2023")
 
-//console.log(myCreateDate.toLocaleString());
+// console.log(myCreateDate.toLocaleString());
 
 
 // let myTimeStamp = Date.now()
